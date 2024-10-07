@@ -1,0 +1,11 @@
+## Interface: 110002  # The game version (11.0.2)
+## Title: DynamicGFX
+## Notes: Automatically adjusts FPS and graphics settings based on the current environment.
+## Version: 1.0
+## Author: Tarqwyn Azjol-Nerub (EU)
+
+## SavedVariablesPerCharacter: DynamicGFX_CharacterSettings
+
+DynamicGFX.lua
+DynamicGFX_UI.lua
+slash_commands.lua
